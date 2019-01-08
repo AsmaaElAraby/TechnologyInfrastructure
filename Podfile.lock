@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (4.7.3)
+  - ARSLineProgress (2.2.2)
+  - SwiftLint (0.27.0)
+  - SwiftMessages (5.0.0):
+    - SwiftMessages/App (= 5.0.0)
+  - SwiftMessages/App (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - ARSLineProgress (~> 2.0)
+  - SwiftLint
+  - SwiftMessages (= 5.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - ARSLineProgress
+    - SwiftLint
+    - SwiftMessages
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  ARSLineProgress: 2a085b6158f4c907df9bf7df53513be9ef62f165
+  SwiftLint: 3207c1faa2240bf8973b191820a116113cd11073
+  SwiftMessages: 342d312bf8d5ac11141285c8fec6308380df7f72
+
+PODFILE CHECKSUM: 50085e7425eca0df5668dc9879b723d256897bb9
+
+COCOAPODS: 1.5.2
